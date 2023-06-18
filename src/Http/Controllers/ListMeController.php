@@ -1,6 +1,6 @@
 <?php
 
-namespace Tots\Notification\Http\Controllers\Posts;
+namespace Tots\Notification\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Tots\Notification\Models\TotsNotification;
